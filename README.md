@@ -30,3 +30,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="45" height="45"/>                      
 </p>
+![Snake animation](https://github.com/senghurk/senghurk/blob/output/github-contribution-grid-snake.svg)
